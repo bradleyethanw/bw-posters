@@ -10,6 +10,8 @@ July 2024
 - White, B, Palagano, J, Padilla, C, & Petitto LA (2023, October). Gesturing influenced by cognitive and linguistic factors. Society for the Neurobiology of Language, France.
 - White, B, Padilla, C, McKinnie, K, Smistek, C, & Petitto, LA (2022, July). Early sign-speech bilingualism helps children learn reading. International Mind, Brain, and Education Society, Canada. ***Outstanding Poster Award**.
 - White, B, Padilla, C, Gallagher, G, Palagano, J, Harris, C, & Petitto, LA (2022, July). Why are some individuals better gesturers? Multiple cognitive factors influence performance. International Mind, Brain, and Education Society, Canada.
+- White, B, Palagano, J, Padilla, C, & Petitto, LA (2022, April). Sign-speech bilingualism supports
+optimal learning in deaf children. Cognitive Neuroscience Society, CA.
 - White, B & Langdon, C (2019, August). Listening experience and syntactic complexity modulate neural networks for speech and language: A functional near-infrared spectroscopy study. Society for the Neurobiology of Language, Finland.
 - White, B, Berger, L, & Langdon, C (2019, March). Early auditory experience modulates resting state functional connectivity networks: A functional near-infrared spectroscopy study. Cognitive Neuroscience Society, CA.
 - White, B, Kushalnagar, P, & Langdon, C (2018, November). The role of auditory experience in patient reported outcomes and task performance for effortful listening. American Speech, Language, and Hearing Association, MA.
