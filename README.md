@@ -3,7 +3,7 @@ Bradley White, PhD
 July 2024
 
 ## Refereed Conference Posters:
-- Schwenk, M & <ins>White, B</ins> (2024, Submitted). _Neuroplasticity for phonological awareness in deaf children_. Conference on Language Development, Boston University, MA.
+- Schwenk, M & <ins>White, B</ins> (2024, Submitted). _Neuroplasticity for phonological awareness in deaf children_. Conference on Language Development, Boston University, MA. [20241108_bucld-reading.pdf](https://bradleyethanw.github.io/bw-posters/20241108_bucld-reading.pdf)
 - Kline, A & <ins>White, B</ins> (2024, July). _Biological correlates of reading and dyslexia in bilingual deaf children_. International Mind, Brain, and Education, Belgium.
 - <ins>White, B</ins>, Bailey, K, & Petitto LA (2023, November). _Negative emotions impact attention for learning in young school-aged children_. Society for Neuroscience, DC. [20231111-sfn-emotions-r.pdf](https://bradleyethanw.github.io/bw-posters/20231111-sfn-emotions-r.pdf)
 - <ins>White, B</ins> (2023, November). _Hierarchical neural networks for degraded speech processing_. Advances and Perspectives in Auditory Neuroscience, DC. [20231110-apan-networks-r.pdf](https://bradleyethanw.github.io/bw-posters/20231110-apan-networks-r.pdf)
